@@ -1,0 +1,13 @@
+Customer_ID,Age,Gender,Region,Product,Sales,Quantity,Profit
+C001,25,Male,North,Laptop,55000,1,7000
+C002,30,Female,South,Mobile,30000,1,5000
+C003,22,Male,East,Headphones,8000,2,1200
+C004,35,Female,West,Tablet,25000,1,4000
+C005,40,Male,North,Printer,15000,1,3000
+C006,28,Female,South,Keyboard,7000,2,1500
+C007,45,Male,East,Monitor,35000,1,6000
+C008,32,Female,West,Mouse,6000,3,1200
+C009,27,Male,North,Smart Watch,18000,1,3500
+C010,38,Female,South,Sofa,40000,1,6500
+C011,29,Male,East,Desk,22000,1,4200
+C012,34,Female,West,Table,18000,1,3800
